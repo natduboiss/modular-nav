@@ -44,3 +44,11 @@ a:hover {
   color: #fff;
   background-color: #0074d9;
 }
+
+@media only screen and (min-width: 90em) {
+
+  nav {
+    text-align: left;
+  }
+
+}
